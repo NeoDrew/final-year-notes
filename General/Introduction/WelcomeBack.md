@@ -10,3 +10,4 @@ Speaking weekly with Tutor & Project Supervisor
 
 Put a good amount of effort into the practical work as this will give you enough to talk about in the dissertation. 
 
+Use latex

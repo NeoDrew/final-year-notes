@@ -42,3 +42,18 @@ About the content of each module after it has been completed.
 Examples
 https://canvas.manchester.ac.uk/courses/45429/pages/written-assessments?module_item_id=3407002
 
+
+#### 2. Essay with Visualisation
+
+Basically a 10 page report on visualisations of data which tell a story. 
+
+Some examples include:
+1. The increase and trends of flat prices by region in manchester
+2. Data around songs listened to by yourself (time of day, location, mood?)
+3. Gold as a hedge against inflation (lmao)
+
+Include multiple visualisations. 
+
+Maybe we could do: Trends in languages, what are computers speaking nowadays?
+- Using GitHub programming language data
+

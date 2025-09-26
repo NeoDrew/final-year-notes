@@ -2,6 +2,8 @@
 
 There are modules which are released every 2 weeks @ 12:00 on Wednesdays. 
 
+The assessments for each deliverable is 2pm on the wednesday of when the next module opens.
+
 These modules contain videos, a quiz and a seminar which you have to complete. 
 
 ### Assessments
